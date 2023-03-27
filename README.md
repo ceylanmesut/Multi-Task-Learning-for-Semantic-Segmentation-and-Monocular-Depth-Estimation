@@ -20,7 +20,7 @@ Please note that due to code and dataset sharing restrictions imposed, the repos
 - Implementing Decoder stage with Skip Connections
 
 <p align="center" width="100%">
-    <img width="100%" src="figures/t13_t14.png">
+    <img width="100%" src="figures/t13_t14.PNG">
     <em>Detailed diagram for Task 1.3 and 1.4.</em>
 </p>
 
@@ -30,7 +30,7 @@ Please note that due to code and dataset sharing restrictions imposed, the repos
 In this architecture, encoder is used for both tasks but task-oriented ASPP modules and decoders implemented for semantic segmentation and monocular depth estimation respectively.
 
 <p align="center" width="100%">
-    <img width="100%" src="figures/t2.png">
+    <img width="100%" src="figures/t2.PNG">
     <em>Detailed diagram for Task 1.3 and 1.4.</em>
 </p>
 
@@ -38,7 +38,7 @@ In this architecture, encoder is used for both tasks but task-oriented ASPP modu
 - Extending branched architecture with task distillation using attention modules to leverage initial task predictions to distill information across tasks.
 
 <p align="center" width="100%">
-    <img width="100%" src="figures/t3.png">
+    <img width="100%" src="figures/t3.PNG">
     <em>Branched architecture with task distillation.</em>
 </p>
 
